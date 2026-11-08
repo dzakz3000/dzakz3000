@@ -53,6 +53,31 @@ Palette-Ripper is a web application designed to help developers and designers ea
 [![View Repository](https://img.shields.io/badge/GitHub-VIEW_REPOSITORY-14151a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dzakz3000/Palette-Ripper)
 [![Live Demo](https://img.shields.io/badge/Website-LIVE_DEMO-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dzakz3000.github.io/Palette-Ripper/)
 
+<br>
+
+#### 🗂️ Flashcard Maker
+
+**An Interactive Study & Memorization Tool**
+
+Flashcard Maker is a web application designed to help users create, manage, and study using custom flashcards for more effective learning and active recall.
+
+**Features:**
+
+- 📝 Create, edit, and manage personalized flashcards.
+- 🧠 Interactive flip animations for studying and memorization.
+- 🎨 Clean, intuitive, and responsive user interface.
+- ⚡ Fast deployment and seamless performance.
+- 🌐 Accessible anywhere via web browser.
+
+**Tech Stack:**
+
+`React.js` `JavaScript` `CSS` `Vercel`
+
+<br>
+
+[![View Repository](https://img.shields.io/badge/GitHub-VIEW_REPOSITORY-14151a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dzakz3000/flashcard-maker)
+[![Live Demo](https://img.shields.io/badge/Website-LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://flashcard-maker-tawny.vercel.app/)
+
 ### 🛠️ Tech Stack & Tools
 
 **Core Tech Stack**
