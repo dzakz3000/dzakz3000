@@ -26,6 +26,33 @@ Hi! I'm a developer who blends programming logic with visual creativity. I write
 
 ---
 
+---
+
+### 🚀 Featured Projects
+
+#### 🎨 Palette-Ripper
+
+**A Web-Based Color Palette Tool**
+
+Palette-Ripper is a web application designed to help developers and designers easily extract, manage, and utilize color palettes for their creative projects.
+
+**Features:**
+
+- 🎨 Color extraction and palette management.
+- 📋 One-click copy to clipboard for HEX and RGB codes.
+- 👁️ Real-time visual color preview.
+- ⚡ Fast, clean, and responsive user interface.
+- 🌐 Hosted live and instantly accessible.
+
+**Tech Stack:**
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+[![View Repository](https://img.shields.io/badge/GitHub-VIEW_REPOSITORY-14151a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dzakz3000/Palette-Ripper)
+[![Live Demo](https://img.shields.io/badge/Website-LIVE_DEMO-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dzakz3000.github.io/Palette-Ripper/)
+
 ### 🛠️ Tech Stack & Tools
 
 **Core Tech Stack**
