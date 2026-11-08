@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Ganti URL ini dengan link foto atau GIF karakter animemu/logomu -->
-  <img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1kbW5pOGc4bWp3cmxxYXBhd2EzbTNueWE1YTQ1ZXNpcDVhNnR4diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vMSXa7KFGx49aeeXhe/giphy.gif)" width="150" style="border-radius: 50%;" alt="Profile Picture"/>
+  <img src="[(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1kbW5pOGc4bWp3cmxxYXBhd2EzbTNueWE1YTQ1ZXNpcDVhNnR4diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vMSXa7KFGx49aeeXhe/giphy.gif)](https://i.pinimg.com/736x/86/b3/11/86b311a394ab2b17c543011d9ecf30a4.jpg)" width="150" style="border-radius: 50%;" alt="Profile Picture"/>
   
   # Hey there, I'm Dzakz 👋
   
